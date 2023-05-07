@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T17:18:53.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zFSZoL9lgzkBCybAq5C7" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T17:28:32.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TNi2-D2B8jJjJRjljVo6" version="21.1.4" type="github">
   <diagram name="Página-1" id="bSJGP8Rl3pwdWKhk3Nbw">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,17 +28,20 @@
         <mxCell id="TybLUOuc99CVGpNBgaMz-12" value="Video Demo" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.video;" parent="1" vertex="1">
           <mxGeometry x="190" y="190" width="400" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TybLUOuc99CVGpNBgaMz-15" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.android;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="55" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="TybLUOuc99CVGpNBgaMz-16" value="Power by PortalUp&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TybLUOuc99CVGpNBgaMz-17" value="Logo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="65" y="65" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TybLUOuc99CVGpNBgaMz-18" value="Chatbot personalizado, entrenado e integrado con ChatGPT &lt;br style=&quot;font-size: 18px;&quot;&gt;para optimizar la atencion al cliente desde &lt;font color=&quot;#4c0099&quot; style=&quot;font-size: 18px;&quot;&gt;tu página web&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;horizontal=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="125" y="125" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCEi4esk9JjT-v6ZgHjA-2" value="" style="image;image=img/lib/atlassian/Hipchat_Logo.svg;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kCEi4esk9JjT-v6ZgHjA-3" value="" style="image;image=img/lib/atlassian/Hipchat_Logo.svg;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="53" width="40" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
